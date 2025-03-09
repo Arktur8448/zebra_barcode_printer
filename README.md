@@ -8,8 +8,12 @@ This Python-based application is designed for printing barcodes on Zebra printer
 - **🖨️ Zebra Printer Support** – Uses `pywin32` for direct printing.  
 - **🔖 Barcode Generation** – Leverages `python-barcode` to create barcodes.  
 
-## 🛠️ Installation  
+## ✅ Usage
+Just ran the .exe file and enter needed informations
+
+## 🛠️ Manual Installation  
 Ensure you have Python installed, then install the required dependencies:  
 
 ```bash
 pip install tkinter pywin32 python-barcode pillow
+```
