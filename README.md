@@ -12,4 +12,4 @@ This Python-based application is designed for printing barcodes on Zebra printer
 Ensure you have Python installed, then install the required dependencies:  
 
 ```bash
-pip install tkinter pywin32 python-barcode
+pip install tkinter pywin32 python-barcode pillow
